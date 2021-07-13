@@ -41,13 +41,13 @@
       <!-- START Login Background Pic Wrapper-->
       <div class="bg-pic">
         <!-- START Background Caption-->
-        <div class="bg-caption pull-bottom sm-pull-bottom text-white p-l-20 m-b-20">
+        {{-- <div class="bg-caption pull-bottom sm-pull-bottom text-white p-l-20 m-b-20">
           <h1 class="semi-bold text-white">
 					Meet pages - The simplest and fastest way to build web UI for your dashboard or app.</h1>
           <p class="small">
             Our beautifully-designed UI Framework come with hundreds of customizable features. Every Layout is just a starting point. ©2019-2020 All Rights Reserved. Pages® is a registered trademark of Revox Ltd.
           </p>
-        </div>
+        </div> --}}
         <!-- END Background Caption-->
       </div>
       <!-- END Login Background Pic Wrapper-->
@@ -98,9 +98,9 @@
           <div class="pull-bottom sm-pull-bottom">
             <div class="m-b-30 p-r-80 sm-m-t-20 sm-p-r-15 sm-p-b-20 clearfix">
               <div class="col-sm-9 no-padding m-t-10">
-                <p class="small-text normal hint-text">
+                {{-- <p class="small-text normal hint-text">
                   ©2019-2020 All Rights Reserved. Pages® is a registered trademark of Revox Ltd. <a href="#">Cookie Policy</a>, <a href="#"> Privacy and Terms</a>.
-                </p>
+                </p> --}}
               </div>
             </div>
           </div>
